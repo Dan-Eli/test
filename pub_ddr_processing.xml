@@ -3,4 +3,8 @@
     <qgis_minimum_version>3.18.0</qgis_minimum_version>
       <download_url>https://dan-eli.github.io/test/pub_ddr_processing.zip</download_url>
   </pyqgis_plugin>
+  <pyqgis_plugin name="00011pub_ddr_processing" version="2.1.0">
+    <qgis_minimum_version>3.18.0</qgis_minimum_version>
+      <download_url>https://dan-eli.github.io/test/00011pub_ddr_processing.zip</download_url>
+  </pyqgis_plugin>
 </plugins>
